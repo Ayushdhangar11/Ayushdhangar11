@@ -2,7 +2,7 @@
 <h3 align="center">🚀 MERN Stack Developer | Building Scalable Web Applications</h3>
 
 <p align="center">
-  🔭 Currently working on a <b>Realtime MERN Chat App integrated with Google Gemini</b><br>
+  🔭 Currently working on a <b>AI Based Finance Tracker System</b><br>
   🌱 Learning <b>React, Agile Methodology, Software Engineering Best Practices</b><br>
   💬 Ask me about <b>JavaScript, MERN Stack, OS, CN, Algorithms, and Data Structures</b><br>
   📫 Reach me at: <a href="mailto:d.ayush1114@gmail.com">d.ayush1114@gmail.com</a><br>
